@@ -1,0 +1,8 @@
+# PDF Processing Libraries
+pypdf==5.8.0
+pdfplumber==0.11.4
+pypdfium2==4.30.0
+PyMuPDF==1.23.26
+
+# Optional: For enhanced text processing
+python-dateutil==2.8.2
